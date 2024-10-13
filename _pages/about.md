@@ -12,9 +12,6 @@ profile:
   image: mock_viper.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>American Museum of Natural History</p>
-    <p>200 Central Park West</p>
-    <p>New York, New York 10024</p>
 
 ---
 
