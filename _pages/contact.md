@@ -1,28 +1,11 @@
 ---
-layout: about
+layout: page
 title: contact
-permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile: false
-  align: right
-  image: mock_viper.JPG
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>American Museum of Natural History</p>
-    <p>200 Central Park West</p>
-    <p>New York, New York 10024</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+permalink: /contact/
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 6
 ---
-
-<p>jweinell@amnh.org</p>
-<p>American Museum of Natural History</p>
-<p>200 Central Park West</p>
-<p>New York, New York 10024</p>
-
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -31,3 +14,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
+
