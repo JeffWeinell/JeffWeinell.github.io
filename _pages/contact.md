@@ -2,10 +2,17 @@
 layout: page
 title: contact
 permalink: /contact/
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
+
+<p>Email: jweinell@amnh.org</p>
+<p>American Museum of Natural History</p>
+<p>200 Central Park West</p>
+<p>New York, New York 10024</p>
+
+
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
