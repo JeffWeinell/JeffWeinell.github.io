@@ -2,7 +2,7 @@
 layout: page
 title: Evolution of Philippines Biodiversity
 description: 
-img: assets/img/12.jpg
+img: assets/img/mock_viper.jpg
 importance: 1
 category: research
 related_publications: true
