@@ -14,7 +14,7 @@ description:
 
 <!--About me (left) and photo right-->
 <div class="row">
-    <div class="col-sm mt-6 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         <div class="row justify-content-sm-center">
             <div class="col-sm-8 mt-3 mt-md-0">
                 I am a postdoctoral fellow and Science Research Mentoring Program mentor at the American Museum of Natural History in New York, where I investigate genomics and evolution of reptiles.
