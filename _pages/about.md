@@ -3,8 +3,8 @@ layout: page
 title: 
 permalink: /
 description: 
-#nav: true
-#nav_order: 1
+nav: true
+nav_order: 1
 
 ---
 
