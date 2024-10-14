@@ -7,13 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-Email: jweinell@amnh.org
-
-<br>
+<p>Department of Herpetology</p>
 
 <p>American Museum of Natural History</p>
-<p>200 Central Park West</p>
-<p>New York, New York 10024</p>
+
+<p>Central Park West at 79th Street</p>
+
+<p>New York, New York 10024-5192</p>
+
+<p>jweinell@amnh.org</p>
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
