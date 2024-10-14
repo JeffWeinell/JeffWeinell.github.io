@@ -7,12 +7,19 @@ nav: true
 nav_order: 6
 ---
 
-<p>Jeffrey L. Weinell, Ph.D.</p>
-<p>Department of Herpetology</p>
-<p>American Museum of Natural History</p>
-<p>200 Central Park West</p>
-<p>New York, New York 10024</p>
-<p>jweinell@amnh.org</p>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>Jeffrey L. Weinell, Ph.D.</p>
+        <p>Department of Herpetology</p>
+        <p>American Museum of Natural History</p>
+        <p>200 Central Park West</p>
+        <p>New York, New York 10024</p>
+        <p>jweinell@amnh.org</p>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_Cabadbaran-AgusanNorte-Mindanao_Dec2019_DSC_6393..jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
