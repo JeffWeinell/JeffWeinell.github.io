@@ -2,7 +2,7 @@
 layout: page
 title: Evolution of Philippines Biodiversity
 description: 
-img: assets/img/mock_viper.jpg
+img: assets/img/mock_viper.JPG
 importance: 1
 category: research
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/mock_viper.jpg
+    img: /assets/img/mock_viper.JPG
     ---
 
 <div class="row">
