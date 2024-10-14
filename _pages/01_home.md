@@ -13,7 +13,7 @@ description:
 </div>
 
 <!--About me (left) and photo right-->
-<div class="row">
+<div class="row align-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         <div class="row justify-content-sm-center">
             <div class="col-sm-8 mt-3 mt-md-0">
