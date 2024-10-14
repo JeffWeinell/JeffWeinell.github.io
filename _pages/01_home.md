@@ -32,7 +32,21 @@ description:
 
 
 
-
+<!-- 4 columns test-->
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        column1
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        column2
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        column3
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        column4
+    </div>
+</div>
 
 
 
