@@ -1,11 +1,10 @@
 ---
 layout: page
-title: home
-permalink: 
+title: about
+permalink: /about/
 description: 
 nav: true
 nav_order: 2
-
 ---
 
 <div class="row">
