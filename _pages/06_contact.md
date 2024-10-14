@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+<!--Banner image-->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Lipinia-pulcherra-banner.jpg" title="Lipinia pulcherra banner" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>Jeffrey L. Weinell, Ph.D.</p>
