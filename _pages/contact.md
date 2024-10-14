@@ -7,11 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-<p>Email: jweinell@amnh.org</p>
-<p>American Museum of Natural History</p>
-<p>200 Central Park West</p>
-<p>New York, New York 10024</p>
+Email: jweinell@amnh.org
 
+<br>
+
+American Museum of Natural History
+200 Central Park West
+New York, New York 10024
 
 
 <!--
