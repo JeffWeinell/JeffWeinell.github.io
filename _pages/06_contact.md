@@ -17,7 +17,7 @@ nav_order: 6
         <p>jweinell@amnh.org</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_Cabadbaran-AgusanNorte-Mindanao_Dec2019_DSC_6393..jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_Cabadbaran-AgusanNorte-Mindanao_Dec2019_DSC_6393.jpg" title="Trimeresurus flavomaculatus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
