@@ -254,6 +254,7 @@ exclude:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/cv.md
+  - _pages/02_about.md
   - _pages/research.md
   - purgecss.config.js
   - README.md
