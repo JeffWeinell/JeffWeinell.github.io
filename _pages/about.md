@@ -1,15 +1,12 @@
 ---
 layout: page
-title: about
+title: 
 permalink: /
 description: 
 #nav: true
 #nav_order: 1
 
 ---
-
-<p>About Me</p>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
