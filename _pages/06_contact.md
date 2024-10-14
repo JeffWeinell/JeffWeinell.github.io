@@ -7,7 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-<span style="white-space: pre-line">@Model.CommentText</span>
+<span style="white-space: pre-line">
+test line 1
+test line 2
+</span>
 
 <p>Jeffrey L. Weinell, Ph.D.</p>
 <p>Department of Herpetology</p>
@@ -16,8 +19,10 @@ nav_order: 6
 <p>New York, New York 10024</p>
 <p>jweinell@amnh.org</p>
 
+<div class="text">
 test line 1
 test line 2
+</div>
 
 <pre>
 test line 3
