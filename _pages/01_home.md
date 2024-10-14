@@ -3,8 +3,6 @@ layout: about
 title: about
 permalink: /
 description: 
-nav: false
-nav_order: 0
 ---
 
 <div class="row">
