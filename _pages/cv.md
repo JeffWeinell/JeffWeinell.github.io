@@ -33,7 +33,7 @@ nav_order: 4
     <div class="col-sm-5 mt-3 mt-md-0">
         <h1 class="post-title">
           <a
-            href="{{ Weinell-Jeffrey_CV.pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="assets/pdf/Weinell-Jeffrey_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
