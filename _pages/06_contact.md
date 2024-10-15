@@ -15,7 +15,15 @@ nav_order: 6
 </div>
 
 <!--page title-->
-<h1 class="post-title">{{ page.title }}</h1>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h1 class="post-title">{{ page.title }}</h1>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+</div>
 
 <!--contact info-->
 <div class="row justify-content-sm-center">
