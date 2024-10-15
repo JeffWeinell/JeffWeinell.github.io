@@ -24,7 +24,14 @@ nav_order: 4
     </div>
 </div>
 
-<h1 class="post-title">
+<!--CV header-->
+<div class="row justify-content-sm-center mb-2">
+    <!--left page margin-->
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <!--cv button column-->
+    <div class="col-sm-5 mt-3 mt-md-0">
+        <h1 class="post-title">
           <a
             href="{{ Weinell-Jeffrey_CV.pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
@@ -32,9 +39,14 @@ nav_order: 4
             class="float-right"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
-      </h1>
-
-
-
-
+        </h1>
+    </div>
+    <!--photo column-->
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mock_viper.JPG" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <!--right page margin-->
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+</div>
 
