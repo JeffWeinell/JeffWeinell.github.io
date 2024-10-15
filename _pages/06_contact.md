@@ -8,8 +8,8 @@ nav_order: 6
 ---
 
 <!--Banner image-->
-<div class="row mb-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mb-5">
+    <div class="col-sm mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/imbu-rano-banner.jpg" title="Imbu Rano Kolombangara Island" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
