@@ -29,6 +29,8 @@ description:
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
+        <div class="row">About Me</div>
+        <br>
         I am a postdoctoral fellow and Science Research Mentoring Program mentor at the American Museum of Natural History in New York, where I investigate genomics and evolution of reptiles.
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">

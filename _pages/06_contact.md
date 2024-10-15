@@ -23,8 +23,8 @@ nav_order: 6
         <p>Jeffrey L. Weinell, Ph.D.</p>
         <p>Department of Herpetology</p>
         <p>American Museum of Natural History</p>
-        <p>200 Central Park West</p>
-        <p>New York, New York 10024</p>
+        <p>Central Park West at 79th Street</p>
+        <p>New York, NY 10024-5192</p>
         <p>jweinell@amnh.org</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
