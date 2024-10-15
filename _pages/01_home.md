@@ -43,7 +43,7 @@ description:
         <div class="row">My research investigates how biodiversity is generated and maintained in nature, using genomic, organismal, and ecological information.</div>
     </div>
     <!--first photo column-->
-    <div class="col-sm-2 mt-md-0">
+    <div class="col-sm-1 mt-md-0">
         <div class="row justify-content-sm-center">
             <!--first row of first column column-->
             <div class="row">{% include figure.liquid path="assets/img/Megophrys-stejnegeri_SanRafael_Samar_2018_RKA.jpg" title="Megophrys stejnegeri" class="img-fluid rounded z-depth-1" %}</div>
@@ -54,7 +54,7 @@ description:
         </div>
     </div>
     <!--second photo column-->
-    <div class="col-sm-2 mt-md-0">
+    <div class="col-sm-1 mt-md-0">
         <div class="row justify-content-sm-center">
             <!--first row of second column column-->
             <div class="row">{% include figure.liquid path="assets/img/KarstForest_SanRafael-Samar_2018_RKA.jpg" title="Samar Island Karst forest" class="img-fluid rounded z-depth-1" %}</div>
@@ -65,7 +65,7 @@ description:
         </div>
     </div>
     <!--third photo column-->
-    <div class="col-sm-2 mt-md-0">
+    <div class="col-sm-1 mt-md-0">
         <div class="row justify-content-sm-center">
             <!--first row of third column column-->
             <div class="row">{% include figure.liquid path="assets/img/Emoia-ruficauda_AgusanMarsh-Rosario-AgusanSur_Juvenile_Dec2019_DSC_7049.jpg" title="Emoia ruficauda" class="img-fluid rounded z-depth-1" %}</div>
