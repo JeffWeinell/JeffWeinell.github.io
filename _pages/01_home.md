@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home2
 title: about
 permalink: /
 description: 
@@ -9,6 +9,18 @@ description:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Boiga-angulata-banner.jpg" title="Boiga angulata" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<!--page title-->
+<div class="row justify-content-sm-center">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 

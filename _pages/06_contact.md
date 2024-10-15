@@ -14,22 +14,12 @@ nav_order: 6
     </div>
 </div>
 
-<!--page title-->
-<div class="row justify-content-sm-center">
-    <div class="col-sm-2 mt-3 mt-md-0">
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <h1 class="post-title">{{ page.title }}</h1>
-    </div>
-    <div class="col-sm-2 mt-3 mt-md-0">
-    </div>
-</div>
-
 <!--contact info-->
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
+        <h1 class="post-title">{{ page.title }}</h1>
         <p>Jeffrey L. Weinell, Ph.D.</p>
         <p>Department of Herpetology</p>
         <p>American Museum of Natural History</p>
