@@ -21,7 +21,7 @@ description:
         <div class="row">I am a NSF Postdoctoral Fellow and Science Research Mentoring Program (SRMP) Mentor at the American Museum of Natural History in New York, where I investigate genomics and evolution of reptiles.</div>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Oxyrhabdium-modestum_Mindanao-Endemic-Clade_MWH377_AgusanMarsh_December2019_DSC_7089.jpg" title="Oxyrhabdium modestum" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/jeff3.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
