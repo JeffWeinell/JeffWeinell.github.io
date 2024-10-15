@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <!--Banner image-->
-<div class="row">
+<div class="row mb-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/imbu-rano-banner.jpg" title="Imbu Rano Kolombangara Island" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -25,7 +25,7 @@ nav_order: 6
         <p>American Museum of Natural History</p>
         <p>Central Park West at 79th Street</p>
         <p>New York, NY 10024-5192</p>
-        <p>jweinell@amnh.org</p>
+        <p><a href= "mailto: jweinell@amnh.org">jweinell@amnh.org</a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_Cabadbaran-AgusanNorte-Mindanao_Dec2019_DSC_6393.jpg" title="Trimeresurus flavomaculatus" class="img-fluid rounded z-depth-1" %}
