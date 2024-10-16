@@ -21,14 +21,13 @@ nav_order: 4
         <!--cv title-->
         <h1 class="post-title">
           {{ page.title }}
-        <a
-            href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
         </h1>
+        <a href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="float-right" >
+           <i class="fa-solid fa-file-pdf"></i>
+        </a>
     </div>
     <div class="col-sm-2 mt-md-0">
     </div>
