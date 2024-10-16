@@ -31,7 +31,6 @@ nav_order: 4
     </div>
     <!--photo column-->
     <div class="col-sm-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mock_viper.JPG" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
     </div>
     <!--cv button column-->
     <div class="col-sm-5 mt-md-0">
