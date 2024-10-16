@@ -19,10 +19,9 @@ nav_order: 4
     </div>
     <div class="col-sm-8 mt-md-0">
         <!--cv title-->
-        <h1 class="post-title">{{ page.title }}</h1>
-        <!--cv button column-->
         <h1 class="post-title">
-          <a
+          {{ page.title }}
+        <a
             href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
@@ -35,19 +34,4 @@ nav_order: 4
     </div>
 </div>
 
-<!--not currently used-->
-<div class="row justify-content-sm-center mb-2">
-    <!--left page margin-->
-    <div class="col-sm-2 mt-md-0">
-    </div>
-    <!--photo column-->
-    <div class="col-sm-3 mt-md-0">
-    </div>
-    <!--cv button column-->
-    <div class="col-sm-5 mt-md-0">
-    </div>
-    <!--right page margin-->
-    <div class="col-sm-2 mt-md-0">
-    </div>
-</div>
 
