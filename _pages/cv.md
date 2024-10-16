@@ -36,7 +36,7 @@ nav_order: 4
     <div class="col-sm-5 mt-md-0">
         <h1 class="post-title">
           <a
-            href="assets/pdf/Weinell-Jeffrey_CV.pdf"
+            href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
