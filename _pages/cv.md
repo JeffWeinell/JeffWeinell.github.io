@@ -23,7 +23,7 @@ nav_order: 4
         <a href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
            target="_blank"
            rel="noopener noreferrer"
-           class="float-right" >
+           class="float-left" >
            <i class="fa-solid fa-file-pdf"></i>
         </a>
     </div>
