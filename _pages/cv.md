@@ -19,9 +19,7 @@ nav_order: 4
     </div>
     <div class="col-sm-8 mt-md-0">
         <!--cv title-->
-        <h1 class="post-title">
           {{ page.title }}
-        </h1>
         <a href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
            target="_blank"
            rel="noopener noreferrer"
@@ -32,5 +30,10 @@ nav_order: 4
     <div class="col-sm-2 mt-md-0">
     </div>
 </div>
+
+
+
+
+
 
 
