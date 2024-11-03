@@ -32,34 +32,6 @@ display_categories: [research]
     </div>
 </div>
 
-
-<!--Research-->
-<div class="row justify-content-sm-center mb-5">
-    <!--left page margin-->
-    <div class="col-sm-2 mt-md-0">
-    </div>
-    <!--text column-->
-    <div class="col-sm-4 mt-md-0">
-        <div class="row"><h1 class="post-title">Research Interests</h1></div>
-        <div class="row">I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.</div>
-    </div>
-    <!--first photo column-->
-    <div class="col-sm-1 mt-md-0">
-        <div class="row justify-content-sm-center">
-        </div>
-    </div>
-    <!--second photo column-->
-    <div class="col-sm-3 mt-md-0">
-        <div class="row justify-content-sm-center">
-            <!--first row of first column column-->
-            <div class="row">{% include figure.liquid path="assets/img/Aplopeltura-boa_SanRafael-Samar_2018_JLW.jpg" title="Aplopeltura boa" class="img-fluid rounded z-depth-1" %}</div>
-        </div>
-    </div>
-    <!--right page margin-->
-    <div class="col-sm-2 mt-md-0">
-    </div>
-</div>
-
 <div class="row justify-content-sm-center">
     <!--left page margin-->
     <div class="col-sm-2 mt-md-0">
@@ -75,6 +47,7 @@ display_categories: [research]
           </a>
           {% assign categorized_projects = site.projects | where: "category", category %}
           {% assign sorted_projects = categorized_projects | sort: "importance" %}
+          I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.
           <!-- Generate cards for each project -->
           {% if page.horizontal %}
           <div class="container">
