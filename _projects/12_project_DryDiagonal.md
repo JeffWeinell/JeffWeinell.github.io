@@ -2,11 +2,16 @@
 layout: page
 title: Evolution in the Brazilian Dry Diagonal
 description: 
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/Brazil-Cerrado.jpg
+importance: 3
 category: otherresearch
 related_publications: true
 ---
+
+<!--
+Gymnodactylus-amarali-Brazil-Cerrado.jpg
+-->
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
