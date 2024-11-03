@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page2
 title: Evolution in the Brazilian Dry Diagonal
 description: 
 img: assets/img/Brazil-Cerrado.jpg
 importance: 3
 category: otherresearch
-related_publications: true
+related_publications: false
 ---
 
 <!--

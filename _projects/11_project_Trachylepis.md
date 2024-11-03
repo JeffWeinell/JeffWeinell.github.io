@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page2
 title: Skink Systematics
 description: 
-img: assets/img/12.jpg
+img: assets/img/Trachylepis.png
 importance: 2
 category: otherresearch
-related_publications: true
+related_publications: false
 ---
 
 <!--
