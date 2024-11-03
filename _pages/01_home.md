@@ -52,22 +52,6 @@ description:
         <div class="row justify-content-sm-center">
             <!--first row of first column column-->
             <div class="row">{% include figure.liquid path="assets/img/Aplopeltura-boa_SanRafael-Samar_2018_JLW.jpg" title="Aplopeltura boa" class="img-fluid rounded z-depth-1" %}</div>
-            <!--second row of first column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Brazil-Cerrado.jpg" title="Cerrado Brazil" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--third row of first column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_MWH282_Cabadbaran-Mindanao_Dec2019.jpg" title="Trimeresurus flavomaculatus" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--first row of second column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/KarstForest_SanRafael-Samar_2018_RKA.jpg" title="Samar Island Karst forest" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--second row of second column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Oxyrhabdium-modestum_Mindanao-Endemic-Clade_MWH377_AgusanMarsh_December2019_DSC_7089.jpg" title="Oxyrhabdium modestum" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--third row of second column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/mock_viper.JPG" title="Psammodynastes pulverulentus" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--first row of third column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Emoia-ruficauda_AgusanMarsh-Rosario-AgusanSur_Juvenile_Dec2019_DSC_7049.jpg" title="Emoia ruficauda" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--second row of third column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Megophrys-stejnegeri_SanRafael_Samar_2018_RKA.jpg" title="Megophrys stejnegeri" class="img-fluid rounded z-depth-1" %}</div> -->
-            <!--third row of third column column-->
-            <!-- <div class="row">{% include figure.liquid path="assets/img/Cyrtodactylus-agusanensis_Cabadbaran-AgusanNorte_Dec2019_DSC_6453.jpg" title="Cyrtodactylus agusanensis" class="img-fluid rounded z-depth-1" %}</div> -->
         </div>
     </div>
     <!--right page margin-->
