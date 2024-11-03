@@ -70,7 +70,7 @@ description:
         {% include figure.liquid path="assets/img/KarstForest_SanRafael-Samar_2018_RKA.jpg" title="Samar Island Karst forest" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Oxyrhabdium-modestum_Mindanao-Endemic-Clade_MWH377_AgusanMarsh_December2019_DSC_7089.jpg" title=""Oxyrhabdium modestum" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Oxyrhabdium-modestum_Mindanao-Endemic-Clade_MWH377_AgusanMarsh_December2019_DSC_7089.jpg" title="Oxyrhabdium modestum" class="img-fluid rounded z-depth-1" %}
     </div>
     <!--right page margin-->
     <div class="col-sm-2 mt-md-0">
