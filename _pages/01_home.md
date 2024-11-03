@@ -47,7 +47,9 @@ display_categories: [research]
           </a>
           {% assign categorized_projects = site.projects | where: "category", category %}
           {% assign sorted_projects = categorized_projects | sort: "importance" %}
-          I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.
+          <div class="row mb-2">
+            I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.
+          </div>
           <!-- Generate cards for each project -->
           {% if page.horizontal %}
           <div class="container">
