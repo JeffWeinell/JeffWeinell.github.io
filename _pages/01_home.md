@@ -47,7 +47,7 @@ display_categories: [research]
           </a>
           {% assign categorized_projects = site.projects | where: "category", category %}
           {% assign sorted_projects = categorized_projects | sort: "importance" %}
-          <div class="row mb-2">
+          <div class="row mt-3 mb-5">
             I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.
           </div>
           <!-- Generate cards for each project -->
