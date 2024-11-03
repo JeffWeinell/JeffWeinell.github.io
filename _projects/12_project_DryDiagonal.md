@@ -24,10 +24,10 @@ Gymnodactylus-amarali-Brazil-Cerrado.jpg
                 {% include figure.liquid loading="eager" path="assets/img/Gymnodactylus-amarali-Brazil-Cerrado.jpg" title="Gymnodactylus amarali" class="img-fluid rounded z-depth-1" %}
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/KarstForest_SanRafael-Samar_2018_RKA.jpg" title="Samar Island Karst forest" class="img-fluid rounded z-depth-1" %}
+                {% include figure.liquid loading="eager" path="assets/img/" title="Tropidurus torquatus" class="img-fluid rounded z-depth-1" %}
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Oxyrhabdium-modestum_Mindanao-Endemic-Clade_MWH377_AgusanMarsh_December2019_DSC_7089.jpg" title="Oxyrhabdium modestum" class="img-fluid rounded z-depth-1" %}
+                {% include figure.liquid loading="eager" path="assets/img/" title="Ameiva ameiva" class="img-fluid rounded z-depth-1" %}
             </div>
         </div>
         <div class="caption">
