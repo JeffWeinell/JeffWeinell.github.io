@@ -3,7 +3,7 @@ layout: page2
 title: Phylogenomics
 description: 
 img: assets/img/Trachylepis.png
-importance: 2
+importance: 3
 category: otherresearch
 related_publications: false
 ---
@@ -24,10 +24,10 @@ related_publications: false
                 {% include figure.liquid loading="eager" path="assets/img/" title="Lampropeltini" class="img-fluid rounded z-depth-1" %}
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/" title="" class="img-fluid rounded z-depth-1" %}
+                {% include figure.liquid loading="eager" path="assets/img/" title="Elapoidea" class="img-fluid rounded z-depth-1" %}
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/" title="" class="img-fluid rounded z-depth-1" %}
+                {% include figure.liquid loading="eager" path="assets/img/Trachylepis.png" title="Trachylepis" class="img-fluid rounded z-depth-1" %}
             </div>
         </div>
         <div class="caption">
@@ -35,13 +35,13 @@ related_publications: false
         </div>
         <div class="row">
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Emoia-ruficauda_AgusanMarsh-Rosario-AgusanSur_Juvenile_Dec2019_DSC_7049.jpg" title="Emoia ruficauda" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Megophrys-stejnegeri_SanRafael_Samar_2018_RKA.jpg" title="Megophrys stejnegeri" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Cyrtodactylus-agusanensis_Cabadbaran-AgusanNorte_Dec2019_DSC_6453.jpg" title="Cyrtodactylus agusanensis" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
         </div>
         <div class="caption">

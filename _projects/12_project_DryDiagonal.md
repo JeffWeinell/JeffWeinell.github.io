@@ -3,14 +3,10 @@ layout: page2
 title: Evolution in the Brazilian Dry Diagonal
 description: 
 img: assets/img/Brazil-Cerrado.jpg
-importance: 3
+importance: 2
 category: otherresearch
 related_publications: false
 ---
-
-<!--
-Gymnodactylus-amarali-Brazil-Cerrado.jpg
--->
 
 <div class="row justify-content-sm-center mt-5">
     <!--left page margin-->
@@ -35,13 +31,13 @@ Gymnodactylus-amarali-Brazil-Cerrado.jpg
         </div>
         <div class="row">
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Emoia-ruficauda_AgusanMarsh-Rosario-AgusanSur_Juvenile_Dec2019_DSC_7049.jpg" title="Emoia ruficauda" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Megophrys-stejnegeri_SanRafael_Samar_2018_RKA.jpg" title="Megophrys stejnegeri" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
             <div class="col-sm mt-2 mt-md-0">
-                {% include figure.liquid loading="eager" path="assets/img/Cyrtodactylus-agusanensis_Cabadbaran-AgusanNorte_Dec2019_DSC_6453.jpg" title="Cyrtodactylus agusanensis" class="img-fluid rounded z-depth-1" %}
+                <!-- image goes here -->
             </div>
         </div>
         <div class="caption">

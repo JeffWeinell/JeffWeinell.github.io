@@ -20,7 +20,6 @@ nav_order: 4
     <div class="col-sm-8 mt-md-0">
         <!--cv title-->
         <div class="row">
-            <h1 class="post-title">CV</h1>
             <h1 class="post-title">
             <a href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
                target="_blank"
@@ -28,6 +27,7 @@ nav_order: 4
                class="float-left" >
                <i class="fa-solid fa-file-pdf"></i>
             </a>
+            CV
             </h1>
         </div>
     </div>
