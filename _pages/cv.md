@@ -4,6 +4,8 @@ title: cv
 permalink: /cv/
 nav: true
 nav_order: 4
+toc:
+  sidebar: left
 ---
 
 <!--Banner image-->
@@ -30,6 +32,31 @@ nav_order: 4
             </a>
             </h1>
         </div>
+        <article>
+          <div class="cv">
+            {% for entry in site.data.cv %}
+              <a class="anchor" id="{{ entry.title }}"></a>
+              <div class="card mt-3 p-3">
+                <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                <div>
+                  {% if entry.type == 'list' %}
+                    {% include cv/list.liquid %}
+                  {% elsif entry.type == 'map' %}
+                    {% include cv/map.liquid %}
+                  {% elsif entry.type == 'nested_list' %}
+                    {% include cv/nested_list.liquid %}
+                  {% elsif entry.type == 'time_table' %}
+                    {% include cv/time_table.liquid %}
+                  {% elsif entry.type == 'list_groups' %}
+                    {% include cv/list_groups.liquid %}
+                  {% else %}
+                    {{ entry.contents }}
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </article>
     </div>
     <div class="col-sm-2 mt-md-0">
     </div>
