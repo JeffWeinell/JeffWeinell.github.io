@@ -1,3 +1,17 @@
+- title: Basics
+  type: map
+  contents:
+    - name: Name
+      value: Jeffrey L. Weinell, Ph.D.
+    - name: Location
+      value: 
+        - Department of Herpetology
+        - American Museum of Natural History
+        - Central Park West at 79th Street
+        - New York, NY 10024-5192
+    - name: Email
+      value: jweinell@amnh.org
+
 - title: Education
   type: time_table
   contents:
@@ -5,12 +19,12 @@
       institution: University of Kansas
       year: 2022
       description:
-        - Dissertation: Assembling the Philippine snake fauna
+        - Dissertation. Assembling the Philippine snake fauna
     - title: MS in Biological Sciences
       institution: Villanova University
       year: 2016
       description:
-        - Thesis: Systematics and Phylogeography of the Trachylepis varia species complex
+        - Thesis. Systematics and Phylogeography of the <i>Trachylepis varia</i> species complex
     - title: BS Biology
       institution: Louisiana State University
       year: 2014
