@@ -21,7 +21,7 @@ nav_order: 4
         <!--cv title-->
         <div class="row">
             <h1 class="post-title">
-            CV
+            CV&nbsp;&nbsp;
             <a href="https://jeffweinell.github.io/assets/pdf/Weinell-Jeffrey_CV.pdf"
                target="_blank"
                rel="noopener noreferrer"
