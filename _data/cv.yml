@@ -16,9 +16,9 @@
     - title: PhD in Ecology and Evolutionary Biology
       institution: University of Kansas
       year: 2022
-      description:
+      contents:
         - title: Dissertation
-        - contents:
+          description:
           - Assembling the Philippine snake fauna
     - title: MS in Biological Sciences
       institution: Villanova University
