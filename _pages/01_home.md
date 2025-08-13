@@ -23,7 +23,7 @@ display_categories: [research]
         <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
         <div class="row">
           Assistant Professor of Biology, Austin Peay State University<br>
-          <b>Phone:</b> 931-221-6195<br>
+          Phone: 931-221-6195<br>
           E-mail: weinellj@apsu.edu<br>
           Research background: Herpetology, Field Biology, Evolution, Genomics, Collections-based research<br>
           Research interests: Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.<br>
