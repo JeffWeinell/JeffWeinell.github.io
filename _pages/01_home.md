@@ -20,12 +20,19 @@ display_categories: [research]
     </div>
     <!--text column-->
     <div class="col-sm-5 mt-3 mt-md-0">
-        <div class="row"><h1 class="post-title">About Me</h1></div>
-        <div class="row">I am a NSF Postdoctoral Fellow and Mentor at the American Museum of Natural History in New York, where I investigate genomics and evolution of reptiles. I have 10 years of experience learning and working in natural history museums with major biodiversity collections to study a broad range of questions.</div>
+        <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
+        <div class="row">
+          Assistant Professor of Biology, Austin Peay State University
+          Voicemail: 931-221-6195
+          E-mail: weinellj@apsu.edu
+          Research background: Herpetology, Field Biology, Evolution, Genomics, Collections-based research
+          Research interests: Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.
+          Interested in joining my lab? Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: https://www.apsu.edu/programs/graduate/biology.php
+        </div>
     </div>
     <!--photo column-->
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/jeff3.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/jeff4.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
     </div>
     <!--right page margin-->
     <div class="col-sm-2 mt-3 mt-md-0">
@@ -48,7 +55,6 @@ display_categories: [research]
           {% assign categorized_projects = site.projects | where: "category", category %}
           {% assign sorted_projects = categorized_projects | sort: "importance" %}
           <div class="row mt-4 mb-4">
-            I integrate genomic, organismal, and ecological data with advanced computational methods to investigate how biodiversity is generated and maintained in nature.
           </div>
           <!-- Generate cards for each project -->
           {% if page.horizontal %}
