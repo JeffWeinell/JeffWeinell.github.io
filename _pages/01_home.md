@@ -21,14 +21,14 @@ display_categories: [research]
     <!--text column-->
     <div class="col-sm-5 mt-3 mt-md-0">
         <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
-        <div class="row">**Assistant Professor of Biology,** Austin Peay State University</div>
-        <div class="row">**Phone:** 931-221-6195</div>
-        <div class="row">**E-mail:** weinellj@apsu.edu</div>
-        <div class="row">**Research background:** Herpetology, Field Biology, Evolution, Genomics, Collections-based research</div>
-        <div class="row">**Research interests:** Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.</div>
-        <div class="row"></div>
-        <div class="row">Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: https://www.apsu.edu/programs/graduate/biology.php</div>
-    </div>
+        <div class="row">**Assistant Professor of Biology,** Austin Peay State University
+
+        **Phone:** 931-221-6195
+
+        **E-mail:** weinellj@apsu.edu
+        **Research background:** Herpetology, Field Biology, Evolution, Genomics, Collections-based research
+        **Research interests:** Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.
+        Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: https://www.apsu.edu/programs/graduate/biology.php</div>
     <!--photo column-->
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/jeff4_square.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
