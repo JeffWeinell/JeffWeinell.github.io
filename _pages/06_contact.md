@@ -21,11 +21,11 @@ nav_order: 6
     <div class="col-sm-4 mt-3 mt-md-0">
             <h1 class="post-title">{{ page.title }}</h1>
             Jeffrey L. Weinell, Ph.D.<br>
-            Department of Herpetology<br>
-            American Museum of Natural History<br>
-            Central Park West at 79th Street<br>
-            New York, NY 10024-5192<br>
-            <a href= "mailto: jweinell@amnh.org">jweinell@amnh.org</a>
+            Department of Biology<br>
+            Austin Peay State University<br>
+            Sundquist Science Complex, D217<br>
+            Clarksville, TN 37044<br>
+            <a href= "mailto: weinellj@apsu.edu">weinellj@apsu.edu</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Trimeresurus-flavomaculatus_Cabadbaran-AgusanNorte-Mindanao_Dec2019_DSC_6393.jpg" title="Trimeresurus flavomaculatus" class="img-fluid rounded z-depth-1" %}
