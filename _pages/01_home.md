@@ -32,7 +32,7 @@ display_categories: [research]
     </div>
     <!--photo column-->
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/jeff4.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/jeff4_square.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
     </div>
     <!--right page margin-->
     <div class="col-sm-2 mt-3 mt-md-0">
