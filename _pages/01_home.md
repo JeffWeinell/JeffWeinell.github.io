@@ -29,6 +29,7 @@ display_categories: [research]
           Research interests: Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.<br>
           Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: https://www.apsu.edu/programs/graduate/biology.php<br>
         </div>
+    </div>
     <!--photo column-->
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/jeff4_square.jpg" title="Jeffrey Weinell" class="img-fluid rounded z-depth-1" %}
