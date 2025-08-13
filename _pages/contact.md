@@ -7,15 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-<p>Department of Herpetology</p>
+<p>Department of Biology</p>
 
-<p>American Museum of Natural History</p>
+<p>Austin Peay State University</p>
 
-<p>Central Park West at 79th Street</p>
+<p>Sundquist Science Complex, D217</p>
 
-<p>New York, New York 10024-5192</p>
+<p>Clarksville, TN 37044</p>
 
-<p>jweinell@amnh.org</p>
+<p>weinellj@apsu.edu</p>
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

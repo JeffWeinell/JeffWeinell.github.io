@@ -22,8 +22,7 @@ display_categories: [research]
     <div class="col-sm-5 mt-3 mt-md-0">
         <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
         <div class="row">
-          <p>Assistant Professor of Biology</p>
-          <p>Austin Peay State University</p>
+          <p><b>Assistant Professor of Biology</b>, Austin Peay State University</p>
           <p>Phone: 931-221-6195</p>
           <p>E-mail: weinellj@apsu.edu</p>
           <p>Research background: Herpetology, Field Biology, Evolution, Genomics, Collections-based research</p>
