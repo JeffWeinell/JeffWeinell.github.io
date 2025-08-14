@@ -28,7 +28,7 @@ display_categories: [research]
           Phone: 931-221-6195<br>
           E-mail: weinellj@apsu.edu<br>
           <br>
-          Research background: Herpetology, Field Biology, Evolution, Genomics, Collections-based research<br>
+          <b>Research background:</b> Herpetology, Field Biology, Evolution, Genomics, Collections-based research<br>
           <br>
           Research interests: Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.<br>
           <br>
