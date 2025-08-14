@@ -22,7 +22,8 @@ display_categories: [research]
     <div class="col-sm-5 mt-3 mt-md-0">
         <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
         <div class="row">
-          <b>Assistant Professor of Biology</b> <br>Austin Peay State University<br>
+          <b>Assistant Professor of Biology</b>
+          Austin Peay State University<br>
           <br>
           Phone: 931-221-6195<br>
           E-mail: weinellj@apsu.edu<br>
@@ -31,7 +32,8 @@ display_categories: [research]
           <br>
           Research interests: Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.<br>
           <br>
-          Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: https://www.apsu.edu/programs/graduate/biology.php<br>
+          Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (weinellj@apsu.edu). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: <a href= "https://www.apsu.edu/programs/graduate/biology.php">APSU Biology Graduate Program</a>
+          <br>
         </div>
     </div>
     <!--photo column-->
