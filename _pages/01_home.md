@@ -20,7 +20,7 @@ display_categories: [research]
     </div>
     <!--text column-->
     <div class="col-sm-5 mt-3 mt-md-0">
-        <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
+        <div class="row"><h1 class="post-title">&nbsp;Dr. Jeffrey Weinell</h1></div>
         <div><b>Assistant Professor</b></div>
         <div>Department of Biology</div>
         <div>Austin Peay State University (APSU)<br><br></div>
@@ -33,7 +33,7 @@ display_categories: [research]
         <div><b>Mentorship:&nbsp;</b>
           Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (<a href= "mailto: weinellj@apsu.edu">weinellj@apsu.edu</a>). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: <a href= "https://www.apsu.edu/programs/graduate/biology.php">APSU Biology Graduate Program</a>.<br><br>
         </div>
-        <div><b>Teaching:&nbsp;</b>
+        <div><b>APSU courses:&nbsp;</b>
           Fall 2025: Genetics Lecture (BIOL 3130-09), Genetics Lab (BIOL 3131-11, 3131-12)
         </div>
     </div>
