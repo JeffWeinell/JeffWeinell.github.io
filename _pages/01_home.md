@@ -21,16 +21,20 @@ display_categories: [research]
     <!--text column-->
     <div class="col-sm-5 mt-3 mt-md-0">
         <div class="row"><h1 class="post-title">Dr. Jeffrey Weinell</h1></div>
-        <div class="row"><b>Assistant Professor of Biology</b></div>
-        <div class="row">Austin Peay State University (APSU)<br><br></div>
-        <div class="row"><b>Research background:&nbsp;</b>
+        <div><b>Assistant Professor</b></div>
+        <div><b>Department of Biology</b></div>
+        <div>Austin Peay State University (APSU)<br><br></div>
+        <div><b>Background:&nbsp;</b>
         Herpetology, Field Biology, Evolution, Genomics, Collections-based research<br><br>
         </div>
-        <div class="row"><b>Research interests: </b>
+        <div><b>Research interests:&nbsp;</b>
         Integration of genomic, organismal, and environmental data to better understand how species adapt to different environments. I use amphibians and reptiles as model natural systems for this work.<br><br>
         </div>
-        <div>
+        <div><b>Mentorship:&nbsp;</b>
           Students interested in joining my lab as either an undergraduate or graduate student (MS thesis-track) should email me (<a href= "mailto: weinellj@apsu.edu">weinellj@apsu.edu</a>). Prospective Masters students should also check out APSU's Masters program admissions requirements and deadlines: <a href= "https://www.apsu.edu/programs/graduate/biology.php">APSU Biology Graduate Program</a>
+        </div>
+        <div><b>Teaching:&nbsp;</b>
+          Fall 2025: Genetics Lecture (BIOL 3130-09), Genetics Lab (BIOL 3131-11, 3131-12)
         </div>
     </div>
     <!--photo column-->
